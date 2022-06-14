@@ -1,2 +1,2 @@
 # FTMSCL
-Speaker recognition  of flexible throat microphone based on contrastive learning
+Speaker recognition for flexible throat microphone via contrastive learning
