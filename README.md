@@ -7,3 +7,4 @@ We select the most common 20 words of the 30, and invite 20 speakers (10 males a
 The 20 speakers are from different parts of China and speak with different accents, which increases the diversity of this data set.
 These signals are recorded to form the FTM data set with 4,000 data. 
 And the corresponding CM data are recorded simultaneously to form parallel data pairs when recording FTM data.
+Each zip file is named after the speaker and contains FTM and CM speech files.
